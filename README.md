@@ -2,7 +2,13 @@
 ## Course: React - The Complete Guide (incl Hooks, React Router, Redux)
 View course: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 
-run '**npm start**' to run project.
+
+To run project:
+1. Pull project from GitHub
+2. Make sure you have node installed on your machine
+3. Open terminal window from inside the project directory
+4. Enter '**npm install**'
+5. Enter '**npm start**' 
 
 This project makes use of some core React features, namely:
 - useContext
